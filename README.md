@@ -1,5 +1,1 @@
-# RIPLab6
 
-Hello!
-
-;)
